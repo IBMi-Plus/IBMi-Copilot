@@ -38,7 +38,7 @@ jobs:
         run: |
           set -euo pipefail
           if [ -z "${BLOCKED_PATTERNS:-}" ]; then
-            echo "::error::BLOCKED_PATTERNS secret is not set. Re-run setup-repo-verification.ps1."
+            echo "::error::BLOCKED_PATTERNS secret is not set. Re-run setup-commit-guard.ps1."
             exit 1
           fi
 
