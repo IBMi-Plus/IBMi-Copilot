@@ -1,7 +1,7 @@
-# GHCP in IBMi
+# IBMi Copilot
 
 <p align="center">
-  <img src="assets/banner.svg" alt="GHCP in IBMi animated banner" width="100%">
+  <img src="assets/banner.svg" alt="IBMi Copilot animated banner" width="100%">
 </p>
 
 <p align="center">
